@@ -3,7 +3,7 @@
 
 Given a color image taken with a normal camera (left figure) and a depth-map image taken with a stereo IR system (right figure), we develop a method that filters out the pixels of the depth-map image that corresponds to the human body.
 
-<p align="left"><img src="images/camera_colored.jpg" width="200"><img src="images/depth_colored.jpg" width="200"></p>
+<p align="left"><img src="image_cam/camera_seg.jpg" width="200"><img src="images/depth_colored.jpg" width="200"></p>
 
 
 ### Methodology in brief
